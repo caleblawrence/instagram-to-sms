@@ -1,4 +1,4 @@
-# instagramToSms
+# instagram-to-sms
 This is an application that sends select users Instagram posts to you as text messages. It's a way of receiving images/updates from someone without being on Instagram.
 
 ## Motivation

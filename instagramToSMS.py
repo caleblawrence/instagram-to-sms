@@ -98,9 +98,9 @@ def main():
 
     path="/home/caleblawrence/Projects/instagramToSms/"
 
-    # downloadPictures(users_to_watch, path)
-    # sendImages(users_to_watch)
-    # cleanup(users_to_watch)
+    downloadPictures(users_to_watch, path)
+    sendImages(users_to_watch)
+    cleanup(users_to_watch)
 
 if __name__== "__main__":
     main()

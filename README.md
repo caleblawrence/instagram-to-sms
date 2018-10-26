@@ -1,5 +1,5 @@
 # instagram-to-sms
-This is an application that sends select users Instagram posts to you as text messages. It's a way of receiving images/updates from someone without being on Instagram.
+This is an application that sends select users Instagram posts to you as text messages (even if they are private). It's a way of receiving images/updates from someone without being on Instagram.
 
 ## Motivation
 The reasoning for this project because is that I wanted to receive images (Instagram posts) from my family members but at the same time I'm not on social media. I wanted to have a way of "following" them but not being on Instagram. 

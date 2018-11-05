@@ -8,7 +8,7 @@ Instagram To SMS checks for new Instagram posts from a list of people and when i
 
 
 ## Dependencies and repos that made this project possible
-This project relies on the [intagram-scraper](https://github.com/rarcega/instagram-scraper) project by [rarcega](https://github.com/rarcega) to download all the images from someone's Instagram profile and I use [Twilio](www.twilio.com) to send text messages.
+This project relies on the [intagram-scraper](https://github.com/rarcega/instagram-scraper) project by [rarcega](https://github.com/rarcega) to download all the images from someone's Instagram profile and I use [Twilio](http://twilio.com) to send text messages.
 
 I also used [Flask](http://flask.pocoo.org/) and [Ngrok](https://ngrok.com/) to create a simple file server so that I could create a public URL for the downloaded images so that Twilio could send them.
 

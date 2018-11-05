@@ -15,5 +15,7 @@ I also used [Flask](http://flask.pocoo.org/) and [Ngrok](https://ngrok.com/) to 
 ## Usage
 1. Update env variables 
 2. Start up Image Server (export FLASK_APP=flaskImageServer.py and python -m flask run)
-3. Run setupImageServer.sh to set up ngrok
-4. Run instagramToSms.py script to check for images and send them
+3. Run setupImageServer.sh to set up ngrok (CRON this as urls expire)
+4. Run instagramToSMS.py script to check for images and send them (CRON)
+
+You can run steps 3 and 4 in CRON everyday assuming the flask app is constantly running.

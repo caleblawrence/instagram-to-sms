@@ -13,4 +13,7 @@ This project relies on the [intagram-scraper](https://github.com/rarcega/instagr
 I also used [Flask](http://flask.pocoo.org/) and [Ngrok](https://ngrok.com/) to create a simple file server so that I could create a public URL for the downloaded images so that Twilio could send them.
 
 ## Usage
-//todo
+1. Update env variables 
+2. Start up Image Server (export FLASK_APP=flaskImageServer.py and python -m flask run)
+3. Run setupImageServer.sh to set up ngrok
+4. Run instagramToSms.py script to check for images and send them

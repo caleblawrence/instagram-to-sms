@@ -1,3 +1,3 @@
-2018-10-20 21:29:42,887 - __main__ - ERROR - Login failed for calebjohnsontosms
-2018-10-20 21:29:42,888 - __main__ - ERROR - {"status": "fail", "message": "Please wait a few minutes before you try again."}
-2018-10-20 21:29:43,230 - __main__ - ERROR - User txmom2four_ is private
+2018-10-27 14:28:32,202 - __main__ - ERROR - Login failed for calebjohnsontosms
+2018-10-27 14:28:32,203 - __main__ - DEBUG - Session error 1: "Sorry, there was a problem with your request."
+2018-10-27 14:28:32,517 - __main__ - ERROR - User txmom2four_ is private

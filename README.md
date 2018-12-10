@@ -1,5 +1,5 @@
 # instagram-to-sms
-This is an application that sends select users Instagram posts to you as text messages (even if they are private). It's a way of receiving images/updates from someone without being on social media. Interesting TED talk about quitting social media [here](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
+This is an application that sends select users Instagram posts to you as text messages (even if they are private). It's a way of receiving images/updates from family members without being on social media. Interesting TED talk about quitting social media [here](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
 
 #### Example screenshot
 ![alt text](https://raw.githubusercontent.com/caleblawrence/instagram-to-sms/master/example_screenshot.jpg)

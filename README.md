@@ -8,7 +8,7 @@ The reasoning for this project because is that I wanted to receive images (Insta
 
 Instagram To SMS checks for new Instagram posts from a list of people and when it finds new posts it sends the image and caption as a text message to my phone.
 
-Interesting TED talk about quitting social media [here].(https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en)
+Interesting TED talk about quitting social media [here] (https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media?language=en).
 
 
 ## Dependencies and repos that made this project possible
